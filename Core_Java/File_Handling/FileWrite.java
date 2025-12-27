@@ -53,7 +53,6 @@ public class FileWrite {
 		  catch(IOException e) {
 			  e.printStackTrace();
 			}
-		
 
 	}
 
