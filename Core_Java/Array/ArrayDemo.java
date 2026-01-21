@@ -30,7 +30,7 @@ public class ArrayDemo {
 		for(int i=arr.length-1;i>=0;i--) {
 			System.out.println(arr[i]);
 		}
-		//taking input from console
+		//taking input from console and create there array
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the size of array");
 		int size=sc.nextInt();
