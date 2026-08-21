@@ -10,7 +10,7 @@ public class CheckUpperCase {
 		int upper=0;
 		for(int i=0;i<str.length();i++) {
 			char ch=str.charAt(i);
-			
+			 
 			//this is method in Character that count Upper Case
 			if(Character.isUpperCase(ch)) {
 				upper++;
