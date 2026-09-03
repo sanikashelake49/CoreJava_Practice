@@ -1,11 +1,11 @@
 
 public class DemoAbstract_DynDisp {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Employee e;
 		RegEmp re=new RegEmp(1,"java",21000);
-	 CtrEmp ce=new CtrEmp(111,"spring");  
+	 CtrEmp ce=new CtrEmp(111,"spring");   
 		
 		 //using DMD-
 		 //DMD for the parent reff and call child method
