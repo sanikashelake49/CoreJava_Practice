@@ -6,7 +6,7 @@ public class Ascending_Array {
 		// TODO Auto-generated method stub
 		// ascending order 
       int arr[]= {8,7,6,9};  
-      int max=arr[0];  
+      int max=arr[0]; 
       for(int i=1;i<arr.length;i++) {
     	  if(arr[i]>max) {
     		  //System.out.println(arr[i]);
